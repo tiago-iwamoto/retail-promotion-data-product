@@ -12,8 +12,6 @@ Leadership requires a structured and trusted data foundation to:
 - Compare store performance under consistent metric definitions
 - Ensure daily revenue numbers are stable and finalized
 
----
-
 ## 2. Primary Stakeholders
 
 - **Executive Leadership**  
@@ -31,8 +29,6 @@ Leadership requires a structured and trusted data foundation to:
 - **IT / Data Engineering**  
   Responsible for ingestion, pipeline reliability, and availability of source data, in alignment with the defined data contracts and quality expectations.
 
----
-
 ## 3. Key Decisions Enabled
 
 This data product supports the following decisions:
@@ -42,8 +38,6 @@ This data product supports the following decisions:
 - Compare store performance under standardized metric definitions.
 - Monitor reporting SLA compliance to ensure daily decision reliability.
 
----
-
 ## 4. Data Product Scope
 
 - 24 months of historical transaction data
@@ -51,8 +45,6 @@ This data product supports the following decisions:
 - Daily aggregated performance metrics (revenue, discount value, basket size, promotion rate)
 - Transaction-level promotion tracking
 - Standardized definitions for revenue and discount-related metrics
-
----
 
 ## 5. Definition of "Good Data"
 
@@ -71,8 +63,6 @@ This data product supports the following decisions:
 - ≥95% on-time availability of finalized daily revenue.
 - ≤1 SLA breach per month.
 
----
-
 ## 6. Ownership & Accountability
 
 - Data Manager owns the data product lifecycle and defined guarantees.
@@ -81,16 +71,12 @@ This data product supports the following decisions:
 - Business stakeholders and Data Manager jointly define and approve metric definitions.
 - Data team monitors SLA compliance and escalates incidents when guarantees are breached.
 
----
-
 ## 7. Success Metrics
 
 - Dataset is formally adopted as the official single source of truth for revenue and promotion reporting.
 - Measurable reduction in metric definition disputes across reporting teams.
 - ≥95% on-time availability of finalized daily revenue.
 - ≤1 SLA breach per month.
-
----
 
 ## 8. Key Risks
 
