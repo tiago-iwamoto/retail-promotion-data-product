@@ -20,3 +20,8 @@ The project illustrates how a data product can be designed with:
 - Clear ownership and responsibilities
 - Measurable success criteria and realistic risk awareness
 - Technical implementation aligned with the defined contract (dbt + Snowflake)
+
+## Source File Disclaimer
+
+**This dataset is synthetic and may contain non-realistic commercial behavior.**
+**The purpose of this case study is not accuracy, but to demonstrate data product design, governance structure, ownership definition and technical enforcement aligned with business guarantees.**
